@@ -13,7 +13,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 # Usage (Screenshot)
 
-![Screenshot of Welcome Page](https://github.com/JordynEnos/api-code-quiz/blob/441af827fdaa12a0ef73c5a20d1b1736240fdbbb/welcome-screenshot.png)
+![Screenshot of Work Day Scheduler](https://github.com/JordynEnos/3rd-party-api-workday-schedule/blob/fc15033b82ed8c982e9e0cd1d89149ad813c9bee/workday-scheduler-screenshot.png)
 
 # Deployed Application 
 
